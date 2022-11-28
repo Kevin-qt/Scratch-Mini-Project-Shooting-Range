@@ -6,8 +6,8 @@
 Kai is a student who feels fascinated by the beauty of archery. Help him become an archer by passing a training which constitutes 3 levels. You have to score 10 hits to pass each level.
 
 **Control:**
-* Press **A** for left
-* Press **D** for right
-* Press **Space** for shooting
+* Press **A** to move left
+* Press **D** to move right
+* Press **Space** to shoot
 
 Feel free to try on by clicking [HERE](https://scratch.mit.edu/projects/767284444)
