@@ -9,4 +9,4 @@ Kai is a student who feels fascinated by the beauty of archery. Help him become 
 * Press **D** for right
 * Press **Space** for shooting
 
-Feel free to try on: https://scratch.mit.edu/projects/767284444
+Feel free to try on by clicking [HERE](https://scratch.mit.edu/projects/767284444)
